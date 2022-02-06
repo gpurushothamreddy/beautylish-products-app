@@ -6,8 +6,12 @@ This project was bootstrapped with React App
 
 In the project directory, you can run:
 
-### `npm start`
+Note: We need to install npm before run this app.
 
+### RUN APP: `npm start`
+Need to run following commands to run the app.
+`npm i`
+`npm start`
 Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
